@@ -28,7 +28,7 @@ int main(void)
 	}
 	else
 	{
-	printf("%D is not number\n", n);
+	printf("%d is not number\n", n);
 	}
 	return (0);
 }
