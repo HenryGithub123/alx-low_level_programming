@@ -21,4 +21,4 @@ int ch;
 	}
 	putchar('\n');
 	return (0);
-
+}
