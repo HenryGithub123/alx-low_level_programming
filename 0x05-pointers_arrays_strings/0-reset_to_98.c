@@ -4,11 +4,15 @@
 
 /**
 
-* reset_to_98 -> a function to update the reference of a pointer
+ * reset_to_98 - function that takes a pointer to an integer parameter
 
-* @n: pointer to n to be updated
+ * @n: integer pointer
 
-*/
+ * Return: 0 Success
+
+ */
+
+
 
 void reset_to_98(int *n)
 
